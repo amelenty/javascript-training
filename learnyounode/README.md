@@ -19,3 +19,5 @@
 9. **JUGGLING ASYNC**: same as above but there are three URLs and the output must be in same order as the input.
 
 10. **TIME SERVER**: create a TCP time server.
+
+11. **HTTP FILE SERVER**: create an HTTP server that serves the same text file for each request it receives.
