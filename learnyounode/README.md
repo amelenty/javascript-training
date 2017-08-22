@@ -15,3 +15,5 @@
 7. **HTTP CLIENT**: get a data chunk from a URL provided via command line argument.
 
 8. **HTTP COLLECT**: get all data from a URL provided via command line argument.
+
+9. **JUGGLING ASYNC**: same as above but there are three URLs and the output must be in same order as the input.
