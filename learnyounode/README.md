@@ -12,6 +12,6 @@
 
 6. **MAKE IT MODULAR**: same as above but the function is in a separate module.
 
-7. **HTTP CLIENT**: get a data chunk from an URL provided via command line argument.
+7. **HTTP CLIENT**: get a data chunk from a URL provided via command line argument.
 
-8. **HTTP COLLECT**: get all data from an URL provided via command line argument.
+8. **HTTP COLLECT**: get all data from a URL provided via command line argument.
