@@ -21,3 +21,7 @@
 10. **TIME SERVER**: create a TCP time server.
 
 11. **HTTP FILE SERVER**: create an HTTP server that serves the same text file for each request it receives.
+
+12. **HTTP UPPERCASERER**: create an HTTP server that uppercases a POST request and returns it.
+
+13. **HTTP JSON API SERVER**: create an HTTP server that returns a JSON object with properties inferred from the request URL (a time string query).
